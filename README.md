@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋 I'm Pritam Patel
 
-<!--
-**Pritampatel1/Pritampatel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Gen AI Engineer & Application Developer
 
-Here are some ideas to get you started:
+Building AI Applications using
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- FastAPI
+- LangChain
+- RAG
+- LLMs
+- Swift
+- UIKit
+- SwiftUI
+
+## Skills
+
+### AI
+- LangChain
+- OpenAI
+- Gemini
+- Ollama
+- ChromaDB
+- FAISS
+
+### Backend
+- FastAPI
+- REST API
+- SQLAlchemy
+
+### Mobile
+- Swift
+- SwiftUI
+- UIKit
+- Firebase
+
+## Featured Projects
+
+📌 AI Resume Analyzer
+
+📌 Hospital AI Assistant
+
+📌 Multi-Agent Research Assistant
+
+📌 RAG Chatbot
+
+## Connect with me
+
+LinkedIn:
+https://linkedin.com/in/pritam-patel-a5077a230
+
+Email:
+pritam.patel16898@gmail.com
